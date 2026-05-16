@@ -1,0 +1,6 @@
+feedparser
+requests
+Pillow
+moviepy==1.0.3
+edge-tts
+numpy
